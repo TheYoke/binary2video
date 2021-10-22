@@ -1,0 +1,11 @@
+# For processing binary data
+numpy
+
+# For manipulating image frames
+pillow
+
+# For getting video directly from YouTube
+yt-dlp
+
+# For running Jupyter notebooks
+jupyterlab
